@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.11.20)  16 DEC 2018 16:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.11.20)  16 DEC 2018 17:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -797,72 +797,72 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 84.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (10.09277pt too wide) in paragraph at lines 67--86
+Overfull \hbox (10.09277pt too wide) in paragraph at lines 67--88
 \OT1/cmr/m/n/12 We in-tro-duce rel-e-vant ar-chi-tec-tures which have been shown to cor-rectly clas-sify well-established
  []
 
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
-LaTeX Font Info:    Try loading font information for OT1+zi4 on input line 172.
+LaTeX Font Info:    Try loading font information for OT1+zi4 on input line 174.
  (/usr/share/texlive/texmf-dist/tex/latex/inconsolata/ot1zi4.fd
 File: ot1zi4.fd 2018/01/14 OT1/zi4 (Inconsolata)
 )
 LaTeX Font Info:    Font shape `OT1/zi4/m/n' will be
-(Font)              scaled to size 12.0pt on input line 172.
-<./diagrams/dark_spec_01.png, id=54, 654.7662pt x 265.9536pt>
+(Font)              scaled to size 12.0pt on input line 174.
+<./diagrams/dark_spec_01.png, id=55, 654.7662pt x 265.9536pt>
 File: ./diagrams/dark_spec_01.png Graphic file (type png)
 <use ./diagrams/dark_spec_01.png>
-Package pdftex.def Info: ./diagrams/dark_spec_01.png  used on input line 195.
+Package pdftex.def Info: ./diagrams/dark_spec_01.png  used on input line 197.
 (pdftex.def)             Requested size: 261.90184pt x 106.37955pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 196.
+(caption)                particular \caption on input line 198.
 See the caption package documentation for explanation.
 
-<./diagrams/1_cnn.pdf, id=58, 1478.12222pt x 617.10548pt>
+<./diagrams/1_cnn.pdf, id=59, 1478.12222pt x 617.10548pt>
 File: ./diagrams/1_cnn.pdf Graphic file (type pdf)
 <use ./diagrams/1_cnn.pdf>
-Package pdftex.def Info: ./diagrams/1_cnn.pdf  used on input line 212.
+Package pdftex.def Info: ./diagrams/1_cnn.pdf  used on input line 214.
 (pdftex.def)             Requested size: 399.09834pt x 166.6207pt.
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 214.
+(caption)                particular \caption on input line 216.
 See the caption package documentation for explanation.
 
 [3 <./diagrams/dark_spec_01.png>] [4 <./diagrams/1_cnn.pdf>]
-<./diagrams/dropout_bar.pdf, id=125, 433.62pt x 289.08pt>
+<./diagrams/dropout_bar.pdf, id=126, 433.62pt x 289.08pt>
 File: ./diagrams/dropout_bar.pdf Graphic file (type pdf)
 <use ./diagrams/dropout_bar.pdf>
-Package pdftex.def Info: ./diagrams/dropout_bar.pdf  used on input line 309.
+Package pdftex.def Info: ./diagrams/dropout_bar.pdf  used on input line 311.
 (pdftex.def)             Requested size: 216.80946pt x 144.53964pt.
-<./diagrams/dropout_lines.pdf, id=126, 433.62pt x 289.08pt>
+<./diagrams/dropout_lines.pdf, id=127, 433.62pt x 289.08pt>
 File: ./diagrams/dropout_lines.pdf Graphic file (type pdf)
 <use ./diagrams/dropout_lines.pdf>
-Package pdftex.def Info: ./diagrams/dropout_lines.pdf  used on input line 312.
+Package pdftex.def Info: ./diagrams/dropout_lines.pdf  used on input line 314.
 (pdftex.def)             Requested size: 216.80946pt x 144.53964pt.
 LaTeX Font Info:    Font shape `OT1/zi4/m/n' will be
-(Font)              scaled to size 10.95pt on input line 316.
-<./diagrams/opt_bar.pdf, id=127, 433.62pt x 289.08pt>
+(Font)              scaled to size 10.95pt on input line 318.
+<./diagrams/opt_bar.pdf, id=128, 433.62pt x 289.08pt>
 File: ./diagrams/opt_bar.pdf Graphic file (type pdf)
 <use ./diagrams/opt_bar.pdf>
-Package pdftex.def Info: ./diagrams/opt_bar.pdf  used on input line 322.
+Package pdftex.def Info: ./diagrams/opt_bar.pdf  used on input line 324.
 (pdftex.def)             Requested size: 216.80946pt x 144.53964pt.
-<./diagrams/opt_lines.pdf, id=128, 433.62pt x 289.08pt>
+<./diagrams/opt_lines.pdf, id=129, 433.62pt x 289.08pt>
 File: ./diagrams/opt_lines.pdf Graphic file (type pdf)
 <use ./diagrams/opt_lines.pdf>
-Package pdftex.def Info: ./diagrams/opt_lines.pdf  used on input line 325.
+Package pdftex.def Info: ./diagrams/opt_lines.pdf  used on input line 327.
 (pdftex.def)             Requested size: 216.80946pt x 144.53964pt.
-<./diagrams/pool_bar.pdf, id=129, 433.62pt x 289.08pt>
+<./diagrams/pool_bar.pdf, id=130, 433.62pt x 289.08pt>
 File: ./diagrams/pool_bar.pdf Graphic file (type pdf)
 <use ./diagrams/pool_bar.pdf>
-Package pdftex.def Info: ./diagrams/pool_bar.pdf  used on input line 334.
+Package pdftex.def Info: ./diagrams/pool_bar.pdf  used on input line 336.
 (pdftex.def)             Requested size: 216.80946pt x 144.53964pt.
-<./diagrams/pool_lines.pdf, id=130, 433.62pt x 289.08pt>
+<./diagrams/pool_lines.pdf, id=131, 433.62pt x 289.08pt>
 File: ./diagrams/pool_lines.pdf Graphic file (type pdf)
 <use ./diagrams/pool_lines.pdf>
-Package pdftex.def Info: ./diagrams/pool_lines.pdf  used on input line 337.
+Package pdftex.def Info: ./diagrams/pool_lines.pdf  used on input line 339.
 (pdftex.def)             Requested size: 216.80946pt x 144.53964pt.
  [5] [6 <./diagrams/dropout_bar.pdf> <./diagrams/dropout_lines.pdf
 
@@ -880,23 +880,23 @@ pdfTeX warning: pdflatex (file ./diagrams/pool_bar.pdf): PDF inclusion: multiple
 
 pdfTeX warning: pdflatex (file ./diagrams/pool_lines.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
-<./diagrams/correct_goa.pdf, id=409, 15.4176pt x 15.4176pt>
+<./diagrams/correct_goa.pdf, id=410, 15.4176pt x 15.4176pt>
 File: ./diagrams/correct_goa.pdf Graphic file (type pdf)
 <use ./diagrams/correct_goa.pdf>
-Package pdftex.def Info: ./diagrams/correct_goa.pdf  used on input line 400.
+Package pdftex.def Info: ./diagrams/correct_goa.pdf  used on input line 402.
 (pdftex.def)             Requested size: 107.92279pt x 107.92279pt.
-<./diagrams/incorrect_goa.pdf, id=410, 15.4176pt x 15.4176pt>
+<./diagrams/incorrect_goa.pdf, id=411, 15.4176pt x 15.4176pt>
 File: ./diagrams/incorrect_goa.pdf Graphic file (type pdf)
 <use ./diagrams/incorrect_goa.pdf>
-Package pdftex.def Info: ./diagrams/incorrect_goa.pdf  used on input line 403.
+Package pdftex.def Info: ./diagrams/incorrect_goa.pdf  used on input line 405.
 (pdftex.def)             Requested size: 107.92279pt x 107.92279pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 403--403
+Underfull \hbox (badness 10000) in paragraph at lines 405--405
 []\OT1/cmr/bx/n/10 (b) |\OT1/cmr/m/n/10 Mis-clas-si-fied as
  []
 
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 430--451
+Underfull \hbox (badness 10000) in paragraph at lines 432--453
 
  []
 
@@ -913,18 +913,18 @@ Package caption Warning: Unused \captionsetup[algorithm] on input line 38.
 See the caption package documentation for explanation.
 
 [10]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 566.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 566.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 568.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 568.
  (./report.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 566.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 566.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 568.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 568.
 Package rerunfilecheck Info: File `report.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 566.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 568.
  ) 
 Here is how much of TeX's memory you used:
  22794 strings out of 492982
@@ -935,10 +935,10 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  62i,11n,87p,511b,617s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/inconsolata/i4-ot1-0.enc}{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/inconsolata/Inconsolata-zi4r.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on report.pdf (10 pages, 1056366 bytes).
+Output written on report.pdf (10 pages, 1057254 bytes).
 PDF statistics:
- 513 PDF objects out of 1000 (max. 8388607)
- 224 compressed objects within 3 object streams
+ 514 PDF objects out of 1000 (max. 8388607)
+ 225 compressed objects within 3 object streams
  56 named destinations out of 1000 (max. 500000)
  63 words of extra memory for PDF output out of 10000 (max. 10000000)
 

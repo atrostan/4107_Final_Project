@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1544995836 "/home/alextrosta/Data/keras/keras/docker/Projects/4107/submission/tex/report.tex" "report.pdf" "report" 1544995837
+["pdflatex"] 1544998528 "/home/alextrosta/Data/keras/keras/docker/Projects/4107/submission/tex/report.tex" "report.pdf" "report" 1544998529
   "/etc/texmf/web2c/texmf.cnf" 1542745706 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/alextrosta/Data/keras/keras/docker/Projects/4107/submission/tex/report.tex" 1544995836 23232 5672bf2e7e3f07a6e2c8cc59d02caad5 ""
+  "/home/alextrosta/Data/keras/keras/docker/Projects/4107/submission/tex/report.tex" 1544998528 23288 456ab342f6cd3c6c2bf20ec105419feb ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/inconsolata/i4-ot1-0.enc" 1480098667 2315 334715164332d078f211e6ad023c662e ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1480098696 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
@@ -200,11 +200,11 @@
   "diagrams/opt_lines.pdf" 1544932548 16252 7943103530bfb33f5f726174c99fc51d ""
   "diagrams/pool_bar.pdf" 1544980741 13405 dbee70572a0ad354722179bf628a372b ""
   "diagrams/pool_lines.pdf" 1544980738 15273 819a2cebc4bb90ba1ec2d40620e473a6 ""
-  "report.aux" 1544995837 3602 c20b6646d1a3fa90817548a920c8494e ""
-  "report.out" 1544995837 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "report.tex" 1544995836 23232 5672bf2e7e3f07a6e2c8cc59d02caad5 ""
+  "report.aux" 1544998529 3602 c20b6646d1a3fa90817548a920c8494e ""
+  "report.out" 1544998529 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "report.tex" 1544998528 23288 456ab342f6cd3c6c2bf20ec105419feb ""
   (generated)
-  "report.out"
-  "report.aux"
   "report.pdf"
+  "report.aux"
+  "report.out"
   "report.log"
