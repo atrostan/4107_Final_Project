@@ -9,6 +9,21 @@ Thanks to:
 * https://github.com/markjay4k/Fashion-MNIST-with-Keras/blob/master/pt3%20-%20FMINST%20Embeddings.ipynb
 * https://github.com/keras-team/keras/blob/master/examples/conv_filter_visualization.py
 
+# Requirements:
+
+Seen in [`requirements.txt`](./py/requirements.txt)
+
+|Library|Version|
+|-------|-------|
+|pandas|0.23.4|
+|matplotlib|3.0.2|
+|numpy|1.15.4|
+|tensorflow|1.12.0|
+|scipy|1.1.0|
+|ipython|7.2.0|
+|keras|2.2.4|
+|scikit_learn|0.20.1|
+
 # Download Tracks
 
 Download music tracks from `data_urls.txt`
