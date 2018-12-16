@@ -64,7 +64,7 @@ of your track, and feed the model with slices of your spectrogram.
 # Visualize Convolutional Filters
 
 Detailed in `visualize_filters.ipynb` and 
-examples in [`./tex/diagrams/stitched_filters`](./tex/diagrams/stitched_filters)
+examples in [`./tex/diagrams/stitched_filters`](./tex/diagrams/)
 
 # Report
 
