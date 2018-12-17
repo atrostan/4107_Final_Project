@@ -2,6 +2,7 @@
 
 Thanks to:
 
+* https://gitlab.crowdai.org/gg12/WWWMusicalGenreRecognitionChallenge?_ga=2.123714251.1594486358.1545011930-1055586743.1544557330
 * https://hackernoon.com/finding-the-genre-of-a-song-with-deep-learning-da8f59a61194
 * https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/18_TFRecords_Dataset_API.ipynb
 * https://ricardodeazambuja.com/deep_learning/2018/05/04/tuning_tensorflow_docker/
