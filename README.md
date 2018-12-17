@@ -20,6 +20,7 @@ Seen in [`requirements.txt`](./py/requirements.txt)
 |numpy|1.15.4|
 |tensorflow|1.12.0|
 |scipy|1.1.0|
+|librosa|0.6.2|
 |ipython|7.2.0|
 |keras|2.2.4|
 |scikit_learn|0.20.1|
