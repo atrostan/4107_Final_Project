@@ -26,28 +26,30 @@ Seen in [`requirements.txt`](./py/requirements.txt)
 
 # Download Tracks
 
-Download music tracks from `data_urls.txt`
+Either download your own music from [http://www.ektoplazm.com/](http://www.ektoplazm.com/), 
+or 
+download music tracks from [`data_urls.txt`](./data_urls.txt)
 
 # Convert Tracks to `TFRecords`
 
-Detailed in `read_mp3s.ipynb`
+Detailed in [`read_mp3s.ipynb`](./read_mp3s.ipynb)
 
 # Train model 
 
-Detailed in `train_model.ipynb`.  
+Detailed in [`train_model.ipynb`](./train_model.ipynb).  
 You can skip this step, and just extract `best_model.tar.gz`: a Keras model
 I've trained.   
 Load this model using [load_model(best_psy_cnn.h5)](https://stackoverflow.com/a/43263973/8822734)
 
 # Test model 
 
-Detailed in `test_model.ipynb`.  
+Detailed in [`test_model.ipynb`](./test_model.ipynb).  
 You can skip this step, and just extract `best_model.tar.gz`: a Keras model
 I've trained.   
 
 # Predict using the model
 
-Detailed in `predict_model.ipynb`.   
+Detailed in [`predict_model.ipynb`](./predict_model.ipynb).   
 The model was trained on 5 genres:
 * [Downtempo](http://www.ektoplazm.com/style/downtempo)
 * [Dark](http://www.ektoplazm.com/style/darkpsy)
@@ -63,11 +65,11 @@ of your track, and feed the model with slices of your spectrogram.
 
 # Visualize Convolutional Filters
 
-Detailed in `visualize_filters.ipynb` and 
+Detailed in [`visualize_filters.ipynb`](./visualize_filters.ipynb) and 
 examples in [`./tex/diagrams/stitched_filters`](./tex/diagrams/)
 
 # Report
 
 The report outlining the development of this project is [here](./tex/report.pdf)
 
-Production of graphs for the report are outlined in `plot_results.ipynb`
+Production of graphs for the report are outlined in [`plot_results.ipynb`](./plot_results.ipynb)
